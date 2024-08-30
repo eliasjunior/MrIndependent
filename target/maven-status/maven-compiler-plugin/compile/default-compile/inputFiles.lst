@@ -1,0 +1,11 @@
+/Users/eliasjunior/Projects/java/examples/MrIndependent/src/main/java/com/example/App.java
+/Users/eliasjunior/Projects/java/examples/MrIndependent/src/main/java/com/example/adapter/configuration/AppConfig.java
+/Users/eliasjunior/Projects/java/examples/MrIndependent/src/main/java/com/example/adapter/controller/MenuController.java
+/Users/eliasjunior/Projects/java/examples/MrIndependent/src/main/java/com/example/adapter/model/Menu.java
+/Users/eliasjunior/Projects/java/examples/MrIndependent/src/main/java/com/example/adapter/repository/InMenuRepository.java
+/Users/eliasjunior/Projects/java/examples/MrIndependent/src/main/java/com/example/adapter/repository/MySqlImpl.java
+/Users/eliasjunior/Projects/java/examples/MrIndependent/src/main/java/com/example/adapter/repository/MySqlRepository.java
+/Users/eliasjunior/Projects/java/examples/MrIndependent/src/main/java/com/example/domain/MenuRepository.java
+/Users/eliasjunior/Projects/java/examples/MrIndependent/src/main/java/com/example/domain/entity/MenuItem.java
+/Users/eliasjunior/Projects/java/examples/MrIndependent/src/main/java/com/example/domain/usecase/CreateMenuUseCase.java
+/Users/eliasjunior/Projects/java/examples/MrIndependent/src/main/java/com/example/domain/usecase/FakeDependency.java

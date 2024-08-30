@@ -1,0 +1,19 @@
+GET http://localhost:8080/menu/Lending
+
+###
+
+POST http://localhost:8080/menu
+Content-Type: application/json
+
+{
+    "label" : "Fantasy",
+    "children": [
+        {"label" : "The Lord of the Rings"},
+        {"label" : "The Legend of Zelda"},
+        {"label" : "Star wars"},
+        {"label" : "Hogwarts Legacy"}
+    ]
+}
+
+### 
+GET http://localhost:8080/menu
